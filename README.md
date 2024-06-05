@@ -4,6 +4,7 @@
 
 [![Sapienza](https://img.shields.io/badge/Sapienza_University_of_Rome-blue?style=flatlabelColor=781A2D&color=781A2D&logoColor=white)](https://www.diag.uniroma1.it/gruppi-di-ricerca/25462)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=flat)](./LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11489177.svg)](https://doi.org/10.5281/zenodo.11489177)
 
 </div>
 
